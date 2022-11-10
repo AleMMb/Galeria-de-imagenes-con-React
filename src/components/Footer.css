@@ -1,0 +1,16 @@
+.footer{
+    background-color: #664300;
+    color: #f8de7e;
+    width: 100%;
+}
+  
+.boton{
+    margin: 0.5rem;
+    text-decoration: none;
+}
+  
+  
+.footer a{
+    color: #f8de7e;;
+    text-decoration: none;
+}

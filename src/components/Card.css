@@ -1,0 +1,13 @@
+.card_secction{
+    display:flex;
+    justify-content: space-around;
+    margin-bottom: 146px;
+}
+
+.cuerpo_carta{
+    background-color:#bea74b;
+}
+  
+.titulo_carta{
+    color: #664300;
+}
